@@ -42,3 +42,5 @@ Projeto front-end de loja virtual de jogos desenvolvido como trabalho final para
 
 #### Página do carrinho
 ![Cart page](docs/img/cart-page.png?raw=true)
+
+Os recursos e informações de jogos utilizados na demonstração foram retirados de suas respectivas páginas na [loja oficial da Steam](https://store.steampowered.com/).
