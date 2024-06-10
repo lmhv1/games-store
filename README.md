@@ -1,3 +1,5 @@
+[🇺🇸 English](https://github.com/lmhv1/games-store/blob/main/docs/README.en.md)
+
 # Games Store
 
 ## Descrição
@@ -26,3 +28,17 @@ Projeto front-end de loja virtual de jogos desenvolvido como trabalho final para
 ## Instalação
 
 - Extraia o código fonte no diretório raiz do seu servidor local.
+
+# Demo
+
+#### Página inicial
+![Home page](docs/img/home-page.png?raw=true)
+
+#### Página de jogo (PC)
+![Game page (PC)](docs/img/game-page-pc.png?raw=true)
+
+#### Página de jogo (Mobile)
+![Game page (Mobile)](docs/img/game-page-mobile.png?raw=true)
+
+#### Página do carrinho
+![Cart page](docs/img/cart-page.png?raw=true)
