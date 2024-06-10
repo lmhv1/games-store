@@ -42,3 +42,5 @@ Front-end project of a virtual game store developed as the final assignment for 
 
 #### Cart page
 ![Cart page](img/cart-page.png?raw=true)
+
+The game assets and information used in this demo were taken from their respective pages on the [official Steam store](https://store.steampowered.com/).
