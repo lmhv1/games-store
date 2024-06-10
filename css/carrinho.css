@@ -1,0 +1,58 @@
+.tblCarrinho {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tblCarrinho td {
+    background-color: rgba(255, 255, 255, 0.02);
+    height: 55px;
+    box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.tblCarrinho .img_jogo {
+    height: 55px;
+}
+
+.tblCarrinho .icon_lixo {
+    margin: 0 auto;
+    display: block;
+    height: 20px;
+}
+
+.tblCarrinho .icon_lixo:hover {
+    background-color: rgb(100, 0, 0);
+    cursor: pointer;
+}
+
+.tblCarrinho .tdata-img {
+    width: 0;
+}
+
+.tblCarrinho .tdata-nome {
+    width: auto;
+    padding-left: 10px;
+}
+
+.tblCarrinho .tdata-preco {
+    width: 130px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.tblCarrinho .tdata-lixo {
+    width: 50px;
+}
+
+.btnFinalizar {
+    height: 80%;
+    padding: 0 20px;
+    margin: 0 5px;
+
+    border: 0;
+    border-radius: 4px;
+
+    font-weight: 600;
+    font-size: 1rem;
+    color: rgba(220, 220, 220, 1);
+    float: right;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato | Clique Jogos</title>
+    <link rel="stylesheet" href="../css/global.css">
+    <link rel="stylesheet" href="../css/contato.css">
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <picture class="logo">
+                <a href="./home.html"><img src="../img/logo.svg" alt="Logo"></a>
+            </picture>
+            <ul>
+                <li><a href="./home.html">Loja</a></li>
+                <li><a href="./contato.html">Contato</a></li>
+                <li><a href="./carrinho.html"><span id="txtCarrinho" class="txtCarrinho">Carrinho</span></a></li>
+            </ul>
+        </nav>
+
+        <button class="btnCadastro btnGradVerde" onclick="window.location.href = './cadastro.html';">Cadastro</button>
+    </header>
+
+    <!-- container -->
+    <main>
+        <div class="container">
+            <section>
+                <h1>Contato</h1>
+                <h2>Deixe seu recado</h2>
+                <form class="frmContato" action="">
+                    <input type="text" class="txtInput" id="nome" name="nome" required placeholder="Nome">
+                    <input type="email" class="txtInput" id="email" name="email" required placeholder="Email">
+                    <input type="text" class="txtInput" id="assunto" name="assunto" required placeholder="Assunto">
+                    <textarea name="mensagem" class="txtInput" id="mensagem" cols="30" rows="10" required placeholder="Mensagem"></textarea>
+                    <input type="submit" class="btnEnviar" value="Enviar">
+                </form>
+            </section>
+        </div>
+    </main>
+    <!-- fim container -->
+
+    <footer class="footer">
+        <picture class="logo">
+            <a href="./home.html"><img src="../img/logo.svg" alt="Logo"></a>
+        </picture>
+        <small>&copy; 2023</small>
+    </footer>
+
+    <script type="module" src="../src/pagContato.js"></script>
+</body>
+
+</html>

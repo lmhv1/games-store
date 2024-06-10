@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/global.css">
+    <link rel="stylesheet" href="../css/jogo.css">
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <picture class="logo">
+                <a href="./home.html"><img src="../img/logo.svg" alt="Logo"></a>
+            </picture>
+            <ul>
+                <li><a href="./home.html">Loja</a></li>
+                <li><a href="./contato.html">Contato</a></li>
+                <li><a href="./carrinho.html"><span id="txtCarrinho" class="txtCarrinho">Carrinho</span></a></li>
+            </ul>
+        </nav>
+
+        <button class="btnCadastro btnGradVerde" onclick="window.location.href = './cadastro.html';">Cadastro</button>
+    </header>
+
+    <!-- container -->
+    <main>
+        <div class="container">
+            <section>
+                <h1 id="jogoNome"></h1>
+                <h2></h2>
+                <div class="topo">
+                    <!-- esquerda -->
+                    <img id="jogoImg">
+
+                    <!-- direita -->
+                    <div class="info">
+                        <p class="info_base"><span id="jogoDescricao" class="info_desc"></span></p>
+                        <div>
+                            <p class="info_base">Plataformas: <span id="jogoPlataformas" class="info_desc"></span></p>
+                            <p class="info_base">Avaliações: <span id="jogoAvaliacoes" class="info_desc"></span></p>
+                            <p class="info_base">Ano de lançamento: <span id="jogoLancamento" class="info_desc"></span></p>
+                            <p class="info_base">Desenvolvedor: <span id="jogoDesenvolvedor" class="info_desc"></span></p>
+                            <p class="info_base">Gênero: <span id="jogoGeneros" class="info_desc"></span></p>
+                        </div>
+                    </div> <!-- fim info -->
+                </div> <!-- fim topo -->
+
+                <div class="faixaComprar">
+                    <!-- esquerda -->
+                    <span id="comprarNome">Comprar</span>
+
+                    <!-- direita -->
+                    <div class="boxComprar">
+                        <span id="jogoPreco">R$</span>
+                        <button id="btnAddCarrinho" class="btnAddCarrinho btnGradVerde">Carrinho +</button>
+                    </div>
+                </div>
+
+                <div class="jogoSobreBox">
+                    <h2>Sobre este jogo</h2>
+                    <hr>
+                    <p id="jogoSobre" class="jogoSobre"></p>
+                </div>
+            </section>
+        </div>
+    </main>
+    <!-- fim container -->
+
+    <footer class="footer">
+        <picture class="logo">
+            <a href="./home.html"><img src="../img/logo.svg" alt="Logo"></a>
+        </picture>
+        <small>&copy; 2023</small>
+    </footer>
+
+    <script type="module" src="../src/pagJogo.js"></script>
+</body>
+
+</html>

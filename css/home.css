@@ -1,0 +1,91 @@
+/* FILTROS */
+.divFiltros {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin: 10px 0 30px;
+}
+
+.selectFiltro,
+.btnLimparFiltro {
+    outline: 0;
+    width: 120px;
+}
+
+.selectFiltro:hover,
+.btnLimparFiltro:hover {
+    outline: 2px solid rgba(100, 100, 200, 0.8);
+}
+
+.btnLimparFiltro {
+    padding: 2px 15px;
+    margin-left: 15px;
+    background-color: rgba(250, 250, 250, 0.8);
+}
+
+.btnLimparFiltro:hover {
+
+    background-color: rgba(250, 250, 250, 1);
+    cursor: pointer;
+}
+
+
+/* FIM FILTROS */
+
+/* CARDS */
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex: auto;
+    justify-content: center;
+}
+
+.jogoCard {
+    height: 240px;
+    max-width: 300px;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 1rem;
+}
+
+.jogoImg {
+    height: 140px;
+}
+
+.cardBottom {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.jogoPreco {
+    position: relative;
+    top: 45px;
+    text-wrap: nowrap;
+}
+
+.jogoLink {
+    display: block;
+    height: 100%;
+}
+
+.jogoLink:hover {
+    background-color: rgba(250, 250, 250, 0.05);
+    cursor: pointer;
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.8);
+    transform: scale(1.01);
+}
+
+/* FIM CARDS */
+
+/* RESPONSIVIDADE */
+@media (max-width: 600px) {
+    .divFiltros {
+        flex-direction: column;
+    }
+
+    .divFiltros button {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+}

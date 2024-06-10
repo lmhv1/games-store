@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500;8..144,600;8..144,700;8..144,800;8..144,900;8..144,1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 200ms;
+}
+
+body {
+    background-color: rgb(20, 30, 50);
+    color: rgb(220, 220, 220);
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.container {
+    margin: 0 auto;
+    width: 950px;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.btnGradVerde {
+    background: rgba(0, 210, 0, 1);
+    background: linear-gradient(210deg, rgba(0, 210, 0, 0.9) 20%, rgba(0, 210, 0, 0.75) 40%, rgba(0, 210, 0, 0.6) 80%);
+}
+
+.btnGradVerde:hover {
+    background: rgba(0, 250, 0, 1);
+    background: linear-gradient(210deg, rgba(0, 250, 0, 0.9) 20%, rgba(0, 250, 0, 0.75) 40%, rgba(0, 250, 0, 0.6) 80%);
+    cursor: pointer;
+}
+
+.verde {
+    color: rgba(0, 210, 0, 1);
+}
+
+.verde:hover {
+    color: rgba(0, 250, 0, 1);
+}
+
+/* ELEMENTOS */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+    color: rgba(220, 220, 220, 0.7);
+    padding-bottom: 40px;
+}
+
+a {
+    color: rgb(196, 194, 191);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(250, 250, 250);
+}
+
+hr {
+    margin: 20px auto;
+}
+
+/* FIM ELEMENTOS */
+
+/* HEADER */
+
+.header {
+    background-color: rgb(10, 20, 40);
+    height: 100px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 600;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)
+}
+
+.header .navbar {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.header .logo img {
+    height: 50px;
+}
+
+.header .navbar ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.header .btnCadastro {
+    padding: 10px 20px;
+
+    border: 0;
+    border-radius: 6px;
+
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: rgba(220, 220, 220, 1);
+}
+
+/* FIM HEADER */
+
+
+/* FOOTER */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 40px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(250, 250, 250);
+}
+
+.footer small {
+    margin: 10px;
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+/* FIM FOOTER */
+
+
+
+/* RESPONSIVIDADE */
+@media (max-width: 1000px) {
+    .header {
+        justify-content: space-between;
+        padding: 0 5% 0 5%;
+    }
+
+    .container {
+        width: 96%;
+    }
+}
+
+@media (max-width: 600px) {
+    .header {
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 300px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

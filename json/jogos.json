@@ -1,0 +1,365 @@
+{
+    "jogos": [{
+            "id": "1",
+            "nome": "Factorio",
+            "generos": [
+                "Automação",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ],
+            "descricao": "Factorio é um jogo sobre a construção e a criação de fábricas automatizadas para produzir itens de complexidade crescente, em um mundo 2D infinito. Use sua imaginação para projetar sua fábrica, combinar elementos simples em estruturas engenhosas e, finalmente, protegê-la das criaturas que não gostam de você.",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2020",
+            "desenvolvedor": "Wube Software LTD.",
+            "preco": 101.99,
+            "sobre": "Factorio é um jogo em que você constrói e mantém fábricas.\n\nVocê irá minerar recursos, pesquisar tecnologias, construir infraestrutura, automatizar produção e lutar contra inimigos.\n\nA princípio você terá que cortar árvores, extrair minérios e produzir braços mecânicos e esteiras de transporte manualmente, mas em pouco tempo você irá se tornar uma potência industrial, com enormes fazendas solares, refinamento de petróleo e seus subprodutos, fábricas e robôs logísticos e de construção, tudo pra suprir sua necessidade de recursos.\n\nContudo, essa exploração de recursos do planeta não é bem visto entre os habitantes locais, então você terá que estar preparado para defender você e seu império de máquinas.\n\nJunte forças com outros jogadores no Multiplayer cooperativo, crie enormes fábricas, colabore e delegue tarefas entre você e seus amigos.\n\nAdicione mods para aumentar seu proveito, de pequenos ajustes e mods auxiliares a completas reformulações do jogo, o Suporte a Mods nativo de Factorio tem permitido que criadores de conteúdo de tomo o mundo criem recursos interessantes e inovadores.\nEnquanto o gameplay essencial é em forma de um cenário \"freeplay\", existe uma uma variedade de desafios interessantes na forma de Pacote de cenários, disponível como DLC.\n\nSe não encontrar nenhum mapa ou cenário que goste, você pode criar seu próprio com o Editor de Mapas nativo, colocando entidades, inimigos e terrenos da forma que desejar, e até adicionando seu próprio script para produzir um gameplay interessante.\n\nSobre Descontos: Não temos nenhum plano de participar de uma promoção ou de reduzir o preço no futuro previsível."
+        },
+        {
+            "id": "2",
+            "nome": "Baldur's Gate 3",
+            "generos": [
+                "RPG",
+                "Aventura"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS"
+            ],
+            "descricao": "Reúna seu grupo e volte aos Reinos Esquecidos em uma história de amizade e traição, sacrifício e sobrevivência, e tentação pelo poder absoluto.",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2023",
+            "desenvolvedor": "Larian Studios",
+            "preco": 199.99,
+            "sobre": "Reúna seu grupo e volte aos Reinos Esquecidos em uma história de amizade e traição, sacrifício e sobrevivência, e tentação pelo poder absoluto.\n\nHabilidades misteriosas despertam em você, semeadas por um parasita devorador de mentes no seu cérebro. Resista e faça a escuridão ruir a si mesma, ou aceite a corrupção e torne-se o mal supremo.\n\nDos criadores de Divinity: Original Sin 2, este é um RPG da nova geração situado no mundo de Dungeons and Dragons.\n\nEscolha dentre diversas raças e classes de D&D ou assuma o papel de um personagem original com um histórico detalhado. Aventure-se, saqueie, lute e envolva-se em romances ao longo da sua jornada pelos Reinos Esquecidos e além. Jogue solo e escolha seus companheiros com cuidado, ou jogue em grupo com até quatro amigos no multijogador."
+        },
+        {
+            "id": "3",
+            "nome": "Grand Theft Auto V",
+            "generos": [
+                "Ação",
+                "Aventura",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Grand Theft Auto V para PC oferece aos jogadores a opção de explorar o gigantesco e premiado mundo de Los Santos e Blaine County em resoluções de até 4K e além, assim como a chance de experimentar o jogo rodando a 60 FPS (quadros por segundo).",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2015",
+            "desenvolvedor": "Rockstar North",
+            "preco": 90.99,
+            "sobre": "Quando um malandro de rua, um ladrão de bancos aposentado e um psicopata aterrorizante se envolvem com alguns dos criminosos mais assustadores e loucos do submundo, o governo dos EUA e a indústria do entretenimento, eles devem realizar golpes ousados para sobreviver nessa cidade implacável onde não podem confiar em ninguém, nem mesmo um no outro.\n\nGrand Theft Auto V para PC oferece aos jogadores a opção de explorar o gigantesco e premiado mundo de Los Santos e Blaine County em resoluções de até 4K e além, assim como a chance de experimentar o jogo rodando a 60 FPS (quadros por segundo).\n\nO jogo oferece uma ampla seleção de opções de personalização específicas para o PC, com mais de 25 configurações separadas para qualidade de textura, sombreamentos, suavização de bordas e muito mais. Além disso, ele contém diversas opções de personalização dos controles de mouse e teclado. Entre as opções adicionais estão a densidade da população, o controle do tráfego de carros e pedestres, suporte para dois ou três monitores, compatibilidade com telas 3D e suporte para controle plug-and-play.\n\nGrand Theft Auto V para PC inclui o Grand Theft Auto Online, com suporte para até 30 jogadores e dois espectadores. Grand Theft Auto Online para PC inclui todas as atualizações de jogo e conteúdos criados pela Rockstar lançados desde que Grand Theft Auto Online foi ao ar, incluindo os recém-lançados Golpes e Modos Adversários.\n\nA versão para PC do Grand Theft Auto V e Grand Theft Auto Online apresenta o Modo em Primeira Pessoa, que dá aos jogadores a chance de explorar o mundo incrivelmente detalhado de Los Santos e Blaine County de uma maneira completamente nova."
+        },
+        {
+            "id": "4",
+            "nome": "Dead by Daylight",
+            "generos": [
+                "Terror"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Dead by Daylight é um jogo de horror multijogadores (4x1) em que um dos jogadores assume o papel do Assassino enquanto os outros quatro jogam como Sobreviventes, tentando fugir do Assassino para não serem pegos, torturados e assassinados.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2016",
+            "desenvolvedor": "Behaviour Interactive Inc.",
+            "preco": 49.99,
+            "sobre": "Dead by Daylight é um jogo de horror multijogadores (4x1) em que um dos jogadores assume o papel do Assassino enquanto os outros quatro jogam como Sobreviventes, tentando fugir do Assassino para não serem pegos, torturados e assassinados.\n\nOs sobreviventes jogam em terceira pessoa e têm como vantagem uma melhor percepção da situação. O Assassino joga em primeira pessoa e fica mais concentrado na presa.\n\nA cada encontro, o objetivo dos Sobreviventes é fugir do Território de Abate sem ser pego pelo Assassino. Isso é mais difícil do que parece – ainda mais em um cenário que muda a cada partida."
+        },
+        {
+            "id": "5",
+            "nome": "Cities: Skylines",
+            "generos": [
+                "Simulação"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ],
+            "descricao": "Cities: Skylines é uma versão moderna dos simuladores de cidade clássicos. O jogo introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades. ",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2015",
+            "desenvolvedor": "Colossal Order Ltd.",
+            "preco": 88.99,
+            "sobre": "Cities: Skylines é uma versão moderna dos simuladores de cidade clássicos. O jogo introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades. \n\nDos criadores da franquia Cities in Motion, este jogo contêm um sistema de transporte incrível. Também inclui a habilidade de modificar o jogo para o seu próprio estilo, contrabalançando uma simulação complexa e desafiadora. Seu único limite é a sua imaginação, então tome o controle e vá até o céu! "
+        },
+        {
+            "id": "6",
+            "nome": "Half-Life",
+            "generos": [
+                "Ação"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ],
+            "descricao": "Premiado como \"Jogo do Ano\" por cerca de 50 publicações, o título de estreia da Valve combina ação e aventura com uma tecnologia premiada para criar um mundo assustadoramente realístico onde os jogadores devem pensar para sobreviver. Também inclui um emocionante modo multijogador que lhe permite jogar contra amigos e inimigos pelo mundo.",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "1998",
+            "desenvolvedor": "Valve",
+            "preco": 20.69,
+            "sobre": "Premiado como \"Jogo do Ano\" por cerca de 50 publicações, o título de estreia da Valve combina ação e aventura com uma tecnologia premiada para criar um mundo assustadoramente realístico onde os jogadores devem pensar para sobreviver. Também inclui um emocionante modo multijogador que lhe permite jogar contra amigos e inimigos pelo mundo."
+        },
+        {
+            "id": "7",
+            "nome": "Project Zomboid",
+            "generos": [
+                "Sobrevivência",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ],
+            "descricao": "O Project Zomboid é a última palavra em sobrevivência de zumbis. Sozinho ou em grupo: você saqueia, constrói, cria, luta, cultiva e pesca em uma luta pela sobrevivência. Um conjunto de habilidades de RPG de alto nível, um mapa vasto, uma caixa de areia extremamente personalizável e um guaxinim tutorial fofo aguardam os incautos. Então, como você vai morrer? Basta uma mordida...",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2013",
+            "desenvolvedor": "The Indie Stone",
+            "preco": 59.99,
+            "sobre": "O Project Zomboid é um sandbox aberto infestado de zumbis. Ele faz uma pergunta simples: como você vai morrer? \n\nNas cidades de Muldraugh e West Point, os sobreviventes devem saquear casas, construir defesas e fazer o máximo para adiar sua morte inevitável dia após dia. Nenhuma ajuda está chegando - sua sobrevivência depende de sua própria astúcia, sorte e capacidade de escapar de uma horda implacável."
+        },
+        {
+            "id": "8",
+            "nome": "Cyberpunk 2077",
+            "generos": [
+                "Ação",
+                "RPG",
+                "Aventura",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto que se passa em Night City, uma megalópole perigosa onde todos são obcecados por poder, glamour e alterações corporais.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2020",
+            "desenvolvedor": "CD PROJEKT RED",
+            "preco": 199.90,
+            "sobre": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado na megalópole de Night City, onde você é um mercenário cyberpunk envolvido em uma intensa luta pela sobrevivência. Com diversas melhorias e conteúdo adicional gratuito, personalize o seu personagem e o seu estilo de jogo conforme aceita trabalhos, construa uma reputação e desbloqueie melhorias. Seus relacionamentos e suas escolhas moldarão a história e o mundo ao seu redor. Aqui nascem as lendas. Qual será a sua?"
+        },
+        {
+            "id": "9",
+            "nome": "ELDEN RING",
+            "generos": [
+                "RPG",
+                "Aventura",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "O NOVO RPG DE AÇÃO E FANTASIA. Levante-se, Maculado, e seja guiado pela graça para portar o poder do Anel Prístino e se tornar um Lorde Prístino nas Terras Intermédias.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2022",
+            "desenvolvedor": "FromSoftware Inc.",
+            "preco": 229.90,
+            "sobre": "O NOVO RPG DE AÇÃO E FANTASIA.\nLevante-se, Maculado, e seja guiado pela graça para portar o poder do Anel Prístino e se tornar um Lorde Prístino nas Terras Intermédias.\n\n• Um mundo vasto e emocionante\nUm mundo vasto onde campos abertos e uma variedade de situações e masmorras imensas, com complexos designs tridimensionais se conectam com fluidez. Conforme explora, sinta a alegria de descobrir poderosas e desconhecidas ameaças que aguardam por você, levando a um grande senso de conquista.\n\n• Crie seu próprio personagem\nAlém de personalizar a aparência do seu personagem, você pode combinar livremente armas, armaduras e magias que equipar. Você pode desenvolver seu personagem de acordo com seu estilo de jogo, como aumentar a força muscular para se tornar um poderoso guerreiro, ou dominar a magia.\n\n• Um drama épico nascido de um mito\nUma história cheia de camadas, contada em fragmentos. Um drama épico onde os vários pensamentos dos personagens se interligam nas Terras Intermédias.\n\n• Jogo on-line único que conecta você livremente aos outros\nAlém do multijogador, onde você pode se conectar diretamente com outros jogadores e viajarem juntos, o jogo suporta um elemento on-line assíncrono único que permite que você sinta a presença dos outros."
+        },
+        {
+            "id": "10",
+            "nome": "Terraria",
+            "generos": [
+                "Aventura",
+                "Sandbox",
+                "Sobrevivência"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ],
+            "descricao": "Cave, lute, explore, construa! Nada é impossível neste jogo de aventura cheio de ação. Pacote de quatro também disponível!",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2011",
+            "desenvolvedor": "Re-Logic",
+            "preco": 32.99,
+            "sobre": "Cave, lute, explore, construa! Nada é impossível nesse jogo de aventura cheio de ação. O mundo é a sua tela de pintar e o chão em si é a sua tinta.\nPegue suas ferramentas e vá! Faça novas armas para lutar contra uma variedades de inimigos em numerosos biomas. Cave profundamente no subsolo para encontrar acessórios, dinheiro e outras coisas úteis. Reúna recursos para criar tudo o que você precisa para tornar o mundo o seu próprio. Construa uma casa, um forte ou até mesmo um castelo. Pessoas vão se mudar e viver lá e talvez até vender para você diferentes mercadorias para ajudá-lo em sua jornada.\nMas cuidado, há ainda mais desafios à sua espera... Você está à altura da tarefa?"
+        },
+        {
+            "id": "11",
+            "nome": "Tom Clancy's Rainbow Six® Siege",
+            "generos": [
+                "FPS",
+                "Ação"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Tom Clancy's Rainbow Six® Siege é um jogo de tiro tático em equipes, realista e de elite, no qual planejamento e execução superiores triunfam.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2015",
+            "desenvolvedor": "Ubisoft Montreal",
+            "preco": 59.99,
+            "sobre": "Tom Clancy's Rainbow Six® Siege é um jogo de tiro tático em equipes, realista e de elite, no qual planejamento e execução superiores triunfam. Possui jogabilidade de 5v5, ataque vs. defesa e combates intensos de curta distância em ambientes destrutíveis.\n\nParticipe de um novo estilo de ataque usando um nível de destruição e uso de gadgets inigualável.\nNa defesa, coordene com sua equipe para transformar seu ambiente em fortalezas. Crie armadilhas, fortificações e sistemas defensivos para prevenir invasões do inimigo.\nNo ataque, lidere sua equipe por corredores apertados, portas com barricadas e paredes reforçadas. Combine mapas táticos, drones de observação, rapel e mais, a fim de planejar, atacar e dispersar qualquer situação."
+        },
+        {
+            "id": "12",
+            "nome": "Rust",
+            "generos": [
+                "Aventura",
+                "Sobrevivência",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS"
+            ],
+            "descricao": "O único objetivo em Rust é sobreviver. Tudo quer que você morra: a vida selvagem e os outros habitantes da ilha, o ambiente, os outros sobreviventes. Faça o que for preciso para durar mais uma noite.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2018",
+            "desenvolvedor": "Facepunch Studios",
+            "preco": 103.49,
+            "sobre": "O único objetivo em Rust é sobreviver. Tudo quer que você morra: a vida selvagem e os outros habitantes da ilha, o ambiente, os outros sobreviventes. Faça o que for preciso para durar mais uma noite.\n\nRust está em seu 9º ano e já teve mais de 350 atualizações de conteúdo, com um patch de conteúdo garantido todo mês. Desde correções regulares de equilíbrio e melhorias até atualizações de IA e gráficos, passando pela adição de conteúdo como novos mapas, instrumentos musicais, trens e drones, além de temporadas e eventos regulares, sempre há algo interessante ou perigoso (ou ambos) acontecendo na ilha. As atualizações do jogo incluem:\n\n• Mundos gerados processualmente com suporte ao editor de mapas\n• Hospedar seus próprios servidores e com suporte a modding no lado do servidor\n• Veículos: cavalos, carros modulares, balões de ar quente, helicópteros, trens e muito mais\n• Sistemas elétricos complexos\n• Agricultura\n• Novos inimigos, vida selvagem e facções\n• Novos monumentos e áreas para explorar\n• Gestos e sistema de contato\n• Instrumentos musicais\n• Grande rede de trens\n• Grande reformulação recente dos gráficos\n• ...e muito mais"
+        },
+        {
+            "id": "13",
+            "nome": "Valheim",
+            "generos": [
+                "Sobrevivência",
+                "Aventura",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows",
+                "Linux"
+            ],
+            "descricao": "Um brutal jogo de exploração e sobrevivência para 1 a 10 jogadores, ambientado em um purgatório gerado de forma procedural, inspirado na cultura viking. Batalhe, construa e conquiste glória em uma saga digna da benção de Odin!",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2021",
+            "desenvolvedor": "Iron Gate AB",
+            "preco": 37.99,
+            "sobre": "Um guerreiro morto pela batalha, as Valquírias levaram sua alma para Valheim, o décimo mundo Nórdico. Cercado por criaturas do caos e antigos inimigos dos deuses, você é o mais novo guardião do purgatório primordial, encarregado de matar os antigos rivais de Odin e trazer ordem para Valheim.\n\nSeus julgamentos começam no desarmado centro pacífico de Valheim, mas os deuses recompensam os corajosos e a glória o espera. Aventure-se por florestas imponentes e montanhas cobertas de neve, explore e colha materiais valiosos para criar armas mais mortais, armaduras mais resistentes, redutos vikings e postos avançados. Construa um poderoso navio e navegue pelos grandes oceanos em busca de terras exóticas... mas tenha cuidado de velejar para muito longe..."
+        },
+        {
+            "id": "14",
+            "nome": "Satisfactory",
+            "generos": [
+                "Automação",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Satisfactory é um jogo de construção de fábricas em primeira pessoa num mundo aberto, com traços de exploração e combate. Jogue sozinho ou com amigos, explore um planeta alienígena, crie fábricas de vários andares e entre no paraíso das correias transportadoras!",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2020",
+            "desenvolvedor": "Coffee Stain Studios",
+            "preco": 88.99,
+            "sobre": "Satisfactory é um jogo de construção de fábricas em primeira pessoa num mundo aberto, com traços de exploração e combate. Jogue sozinho ou com amigos, explore um planeta alienígena, crie fábricas de vários andares e entre no paraíso das esteiras de transporte!\n\nConquiste a natureza construindo fábricas enormes por todo o território. Expanda para onde e como quiser. O planeta está cheio de recursos naturais valiosos esperando para serem utilizados. Como funcionário da FICSIT, é seu dever garantir que eles sejam bem aproveitados.\n\nConstrua suas fábricas com perfeição e graça ou construa redes complexas de esteiras de transporte para suprir todas as suas necessidades. Automatize caminhões e trens para alcançar seus postos mais avançados e distantes, e não esqueça de tratar os líquidos adequadamente, transportando-os em tubos. É tudo uma questão de minimizar o trabalho manual!\n\nAventure-se em expedições para buscar novos materiais e lembre-se de tirar proveito de tudo. A natureza é sua: Você tem veículos, mochilas propulsoras, estações de salto e muito mais à sua disposição para facilitar a exploração. Arme-se também com equipamento de segurança adequado, caso encontre a vida selvagem local."
+        },
+        {
+            "id": "15",
+            "nome": "Deep Rock Galactic",
+            "generos": [
+                "Ação",
+                "Aventura",
+                "FPS"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Deep Rock Galactic é um jogo de tiro em primeira pessoa de ficção científica cooperativo que inclui anões espaciais sinistros, ambientes 100% destrutíveis, cavernas aleatórias e hordas infinitas de monstros alienígenas.",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2020",
+            "desenvolvedor": "Ghost Ship Games",
+            "preco": 57.99,
+            "sobre": "Deep Rock Galactic é um jogo de tiro em primeira pessoa de ficção científica cooperativo que inclui anões espaciais sinistros, ambientes 100% destrutíveis, cavernas aleatórias e hordas infinitas de monstros alienígenas.\n\nTrabalhem como uma equipe cavando, explorando e lutando em um enorme sistema de cavernas, habitado por hordas de inimigos mortais e repleto de valiosos recursos. Você terá que confiar em seus colegas de equipe se quiser sobreviver aos sistemas de cavernas mais hostis da galáxia!\n\nEscolha a classe certa para o trabalho. Detone inimigos como o Gunner, explore e ilumine a caverna como o Scout, esmigalhe rochas sólidas como o Driller ou garanta o suporte à equipe com estruturas de defesa e canhões como o Engineer.\n\nDestrua tudo ao seu redor até atingir seu objetivo. Não há caminho definido, você pode completar sua missão da maneira que preferir. Perfure diretamente até seu objetivo ou construa uma complexa rede de caminhos para explorar seus arredores -- a escolha é sua. Mas prossiga com cautela, você não vai querer encontrar uma ninhada de alienígenas despreparado!"
+        },
+        {
+            "id": "16",
+            "nome": "Goat Simulator",
+            "generos": [
+                "Simulação",
+                "Mundo Aberto",
+                "Sandbox"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ],
+            "descricao": "Goat Simulator é o que há de mais recente em tecnologia de simulação de cabras.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2014",
+            "desenvolvedor": "Coffee Stain Studios",
+            "preco": 32.99,
+            "sobre": "Goat Simulator é o que há de mais recente em tecnologia de simulação de cabras, levando a próxima geração de simulação de cabras até VOCÊ. Você não precisa mais fantasiar ser uma cabra, pois seus sonhos finalmente se tornaram realidade! WASD para fazer história.\n\nQuanto ao jogo em si, Goat Simulator se resume a causar o máximo de estrago que puder sendo uma cabra. Ele tem sido comparado aos jogos de skate old-school, só que em vez de ser um esqueitista, você é uma cabra, e em vez de fazer manobras, você destrói coisas. Destrua coisas em grande estilo, como realizar um mortal para trás enquanto dá uma cabeçada e arremessa um balde pela janela, e você ganhará ainda mais pontos! Ou você pode dar uma olhada no Steam Workshop e criar suas próprias cabras, níveis, missões e mais! Quando se trata de cabras, nem mesmo o céu é o limite, já que provavelmente você pode aproveitar um bug para atravessá-lo e travar o jogo.\n\nGoat Simulator é um jogo completamente idiota e, para sermos sinceros, você provavelmente deveria gastar seu dinheiro em outra coisa, como um bambolê, uma pilha de tijolos, ou talvez juntar dinheiro com os amigos e comprar uma cabra de verdade."
+        },
+        {
+            "id": "17",
+            "nome": "Subnautica: Below Zero",
+            "generos": [
+                "Sobrevivência",
+                "Mundo Aberto"
+            ],
+            "plataformas": [
+                "Windows",
+                "macOS"
+            ],
+            "descricao": "Mergulhe em uma aventura submarina congelante em um planeta alienígena. Below Zero se passa dois anos depois do Subnautica original. Sobreviva às condições difíceis construindo habitats, fabricando ferramentas e mergulhando mais fundo no mundo de Subnautica.",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2021",
+            "desenvolvedor": "Unknown Worlds Entertainment",
+            "preco": 57.99,
+            "sobre": "Below Zero é um jogo de aventura submarina ambientado em um mundo oceânico alienígena. Este é um novo capítulo do universo de Subnautica, desenvolvido pela Unknown Worlds.\n\nMergulhe em uma nova expedição em temperaturas abaixo de zero em uma região ártica do Planeta 4546B. Chegando com pouco mais que sua inteligência e alguns equipamentos de sobrevivência, você parte para investigar o que aconteceu com a sua irmã..."
+        },
+        {
+            "id": "18",
+            "nome": "Assetto Corsa",
+            "generos": [
+                "Simulação",
+                "Corrida"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "O Assetto Corsa v1.16 apresenta a nova pista escaneada a laser \"Laguna Seca\", 7 carros novos, entre eles o aguardado Alfa Romeo Giulia Quadrifoglio! Confira o changelog para obter mais informações!",
+            "avaliacoes": "Muito positivas",
+            "lancamento": "2014",
+            "desenvolvedor": "Kunos Simulazioni",
+            "preco": 59.99,
+            "sobre": "SIMULADOR DE CORRIDAS DE ÚLTIMA GERAÇÃO\nAssetto Corsa possui um motor gráfico DirectX 11 avançado, que reproduz um ambiente imersivo, iluminação dinâmica e materiais e superfícies realistas. O sistema de física avançado é projetado para gerar uma experiência de direção bastante realista, incluindo funções e aspectos de carros reais, nunca antes vistos em outros simuladores de corridas. Isso inclui bandas de rodagem, ciclos de resfriamento, degradação e vesiculação, simulação aerodinâmica altamente avançada, com partes móveis acionáveis em tempo real por canais de telemetria, sistemas híbridos de recuperação cinética e simulação de recuperação de energia. Extremamente detalhado, com opções para um ou diversos jogadores, carros licenciados exclusivos reproduzidos com a maior exatidão possível, graças à cooperação oficial com produtoras de veículos reais.\nASSETTO CORSA foi desenvolvido no KUNOS Simulazioni R&D Office, localizado dentro do circuito internacional de corrida de Vallelunga, o que possibilitou que o jogo fosse desenvolvido conjuntamente com pilotos e equipes de pilotagem reais."
+        },
+        {
+            "id": "19",
+            "nome": "Starfield",
+            "generos": [
+                "RPG",
+                "Mundo Aberto",
+                "Aventura"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Starfield é o primeiro universo novo em 25 anos da Bethesda Game Studios, os premiados criadores de The Elder Scrolls V: Skyrim e Fallout 4.",
+            "avaliacoes": "Neutras",
+            "lancamento": "2023",
+            "desenvolvedor": "Bethesda Game Studios",
+            "preco": 299.00,
+            "sobre": "Starfield é o primeiro universo novo em mais de 25 anos da Bethesda Game Studios, os premiados criadores de The Elder Scrolls V: Skyrim e Fallout 4. Neste RPG para a nova geração em meio às estrelas, crie o personagem que você quiser e explore com liberdade inigualável enquanto embarca em uma jornada épica para desvendar o maior mistério da humanidade.\n\nNo ano de 2330, a humanidade já se aventurou para além do nosso sistema solar, colonizando planetas novos, e agora habita o espaço. Você passará a integrar a Constelação – o último grupo de exploradores espaciais em busca de artefatos raros pela galáxia – e navegará pela vastidão do espaço no maior e mais ambicioso jogo da Bethesda Game Studios.\n\nEm Starfield, a história mais importante é a que você conta com seu personagem. Comece a jornada personalizando sua aparência e decidindo seu histórico e atributos. Você será um explorador experiente, um diplomata charmoso, um ciberita furtivo ou algo completamente diferente? A escolha é sua. Decida quem você será e o que se tornará."
+        },
+        {
+            "id": "20",
+            "nome": "Lethal Company",
+            "generos": [
+                "Terror"
+            ],
+            "plataformas": [
+                "Windows"
+            ],
+            "descricao": "Um terror cooperativo sobre a coleta de lixo em luas abandonadas para vender sucata para a Companhia.",
+            "avaliacoes": "Extremamente positivas",
+            "lancamento": "2023",
+            "desenvolvedor": "Zeekerss",
+            "preco": 32.99,
+            "sobre": "Você é um trabalhador contratado pela Companhia. Seu trabalho é coletar sucata de luas abandonadas e industrializadas para cumprir a cota de lucro da Companhia. Você pode usar o dinheiro que ganha para viajar para novas luas com riscos e recompensas maiores ou pode comprar trajes e decorações sofisticados para sua nave. Conheça a natureza, examinando qualquer criatura que encontrar para adicioná-la ao seu bestiário. Explore os maravilhosos ambientes externos e vasculhe seus subterrâneos abandonados, de aço e concreto. Mas nunca perca a cota.\n\nEsses perigos atacam os vulneráveis e solitários, e a proteção de sua tripulação pode ser sua única esperança. Você pode guiar seus companheiros de tripulação a partir de sua nave, usando o radar para indicar armadilhas e usando o terminal da nave para acessar portas trancadas remotamente - ou todos podem entrar juntos. A loja da Companhia tem muitas ferramentas úteis para o trabalho, incluindo luzes, pás, walkie talkies, granadas de atordoamento ou boomboxes.\n\nAs coisas ficam perigosas à noite. Comunique-se com seus companheiros de tripulação para levar todos os objetos de valor para o navio antes que as coisas fiquem muito perigosas e tente não deixar ninguém para trás."
+        }
+    ]
+}

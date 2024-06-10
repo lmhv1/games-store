@@ -1,0 +1,104 @@
+.topo {
+    height: 215px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.topo img {
+    width: 460px;
+    border-radius: 8px;
+
+}
+
+.info {
+    width: 470px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 0.5%;
+
+    border-radius: 8px;
+}
+
+.info_base,
+.info_desc {
+    font-weight: 400;
+}
+
+.info_base {
+    font-size: 0.8rem;
+    color: rgba(220, 220, 220, 0.6);
+}
+
+.info_desc {
+    font-size: 1rem;
+    color: rgba(220, 220, 220, 1);
+}
+
+.faixaComprar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+
+    margin: 20px 0;
+    height: 60px;
+
+    background: rgba(80, 80, 80, 0.4);
+    background: linear-gradient(210deg, rgba(80, 80, 80, 0.5) 20%, rgba(80, 80, 80, 0.4) 40%, rgba(80, 80, 80, 0.3) 80%);
+
+}
+
+.boxComprar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 0 2px 0 10px;
+    height: 80%;
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+}
+
+.btnAddCarrinho {
+    height: 90%;
+    padding: 0 20px;
+
+    border: 0;
+    border-radius: 4px;
+
+    font-weight: 500;
+    font-size: 1rem;
+    color: rgba(220, 220, 220, 1);
+}
+
+.jogoSobreBox {
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 0.5%;
+
+    border-radius: 8px;
+}
+
+.jogoSobre {
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 1000px) {
+    .topo {
+        height: auto;
+        width: auto;
+        margin: 0 auto;
+        flex-direction: column;
+        align-items: center;
+    }
+}
